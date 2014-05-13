@@ -1,0 +1,17 @@
+
+
+root.'griffon.builder.gfx.GfxBuilder'.view = '*'
+
+
+//
+
+
+
+root {
+    'groovy.swing.SwingBuilder' {
+        controller = ['Threading']
+        view = '*'
+    }
+}
+
+// root.'groovyx.javafx.SceneGraphBuilder'.view = '*'
