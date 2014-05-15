@@ -5,7 +5,7 @@ This is a tool that reads a table from a 'source' file and generates a sequence 
 of that table. Here is an example flow that outlines one (very incomplete/inaccurate) way that money might be
 transferred between two accounts at a bank.
 
-[bank transaction seqflow](docs/BankFlowExample.png)
+![bank transaction seqflow](docs/BankFlowExample.png)
 
 The source is a table in either a MS Word(r) or a OpenOffice/LibreOffice Writer document.
 
